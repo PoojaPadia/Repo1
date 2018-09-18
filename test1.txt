@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4032-9B81
+
+ Directory of C:\Users\pooja.padia\Documents\Jenkins\MyProject
+
+2018-09-18  02:47 PM    <DIR>          .
+2018-09-18  02:47 PM    <DIR>          ..
+2018-09-18  02:47 PM    <DIR>          .git
+2018-09-18  02:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  39,596,572,672 bytes free
